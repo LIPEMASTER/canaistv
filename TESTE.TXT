@@ -18,3 +18,107 @@ https://cdn.data.avsee.in/key=Zrb346CJJB4CkmOCN+56ug,end=1666805208,ip=177.105,l
 #EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/10/4pXnbHkH3hIKcdmBB3gwbayZe4u.jpg" group-title="filmes",Ronaldo, A Fúria
 https://ip290627787.ahcdn.com/key=ycLP4-KiY7gNYlCuVLKYEg,s=,end=1666805272,ip=177.105,limit=1/state=Y1k1sWmN/buffer=5000000:14227571,6082.2/speed=1000000/referer=none,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd2/443/1/296086441/BR/movies/thefury2022-dub-720p.mp4
 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/10/f4hdxB3gErjNJtfWBU9rMdhiNbU-200x300.jpg" group-title="filmes", A Maldição de Bridge Hollow
+https://ip290627484.ahcdn.com/key=mmz2Tt9ghT12sAbuJ54SyQ,s=,end=1666807485,ip=177.105,limit=1/state=Y1k+sWmN/buffer=5000000:14422410,5506.0/speed=1000000/referer=none ,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd8/443/3/295512643/BR/movies/amaldicaodebridgehollow-dub-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/10/g4j5D2lCue9gIDvYg89VdSBXq1y-200x300.jpg" group-title="filmes",Assalto na Paulista
+https://ip290627787.ahcdn.com/key=acwzSxDZyRpHFNOpRXp9oQ,s=,end=1666807523,ip=177.105,limit=1/state=Y1k+sWmN/buffer=5000000:17134016,6609.8/speed=1000000/referer=none ,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd7/443/8/295795058/BR/movies/assaltonapaulista-dub-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://vizer.tv/content/movies/posterPt/342/27820.webp" group-title="filmes",Homem-Aranha: Sem Volta Para Casa
+https://ip290627787.ahcdn.com/key=hSPQS4zBmRchpd-BWQV+Dw,s=,end=1666807564,ip=177.105,limit=1/state=Y1k+sWmN/buffer=5000000:24536418,8889.9/speed=1000000 /referer=none,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd1/443/8/291277628/BR/movies/semvoltaparacasa-dub- 720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/10/vNlwArDpdG60HCtmjxMEpVu0WLO-200x300.jpg" group-title="filmes",Ronaldo, O Fenômeno
+https://ip290627787.ahcdn.com/key=h84DwFKIzqNiix9UlS8Yew,s=,end=1666807588,ip=177.105,limit=1/state=Y1k+sWmN/buffer=5000000:20889698,5645.8/speed=1000000/referer=none ,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd4/443/4/295795074/BR/movies/ronaldoofenomeno-dub-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/10/4pXnbHkH3hIKcdmBB3gwbayZe4u.jpg" group-title="filmes",Ronaldo, A Fúria
+https://ip290627787.ahcdn.com/key=ycLP4-KiY7gNYlCuVLKYEg,s=,end=1666805272,ip=177.105,limit=1/state=Y1k1sWmN/buffer=5000000:14227571,6082.2/speed=1000000/referer=none ,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd2/443/1/296086441/BR/movies/thefury2022-dub-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/09/jDNkXOzqdffE5LIO4Nv4a2VxFCq-200x300.jpg" group-title="filmes",Não! Não Olhe
+https://ip290627787.ahcdn.com/key=NAfbjCN7HM0vBUNbXQOfXQ,s=,end=1666805715,ip=177.105,limit=1/state=Y1k3sWmN/buffer=5000000:19725027,7829.3/speed=1000000/referer=none,. moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd4/443/2/295264292/BR/movies/naonaoolhe-dub-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/07/cIh164JVqUGwVc5fkHsMKkfi9aV-200x300.jpg" group-title="filmes",O Telefone Preto
+https://ip230614521.ahcdn.com/key=lsQew7mtQxzHCDytHzuwFw,s=,end=1666809163,ip=177.105,limit=1/state=Y1lFsWmN/buffer=5000000:12490617,6202.3/speed=1000000/referer=none,. moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd3/443/4/292288444/BR/movies/otelefonepreto-dub-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/07/1nKrDcCzDG5LLamYb3dWWenE92L-200x300.jpg" group-title="filmes",A Entidade 2
+https://ip230617044.ahcdn.com/key=ojYTakhgr-MgOaw9bGLsvw,s=,end=1666809218,ip=177.105,limit=1/state=Y1lFsWmN/buffer=5000000:11070041,5811.1/speed=1000000/referer=none ,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd3/443/2/291270642/BR/movies/aentidade2-dub-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/10/l322MKyX8QDXd0ndsXKf8YObfl2-200x300.jpg" group-title="filmes",Toy Story de Terror
+https://ip230617044.ahcdn.com/key=PQmMS7tDaZLL5V4FfAro0Q,s=,end=1666810163,ip=177.105,limit=1/state=Y1lIsWmN/buffer=5000000:2821403,1292.9/speed=1000000/referer=none,. moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd8/443/8/295793508/BR/movies/toystorydeterror-dub-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/08/7xP0NhjE6AOJ1RTx5vh3Jw1aNCe-200x300.jpg" group-title="filmes",Samaritano
+https://ip250109878.ahcdn.com/key=qwtAPIzKamAW+tfxFUYf+A,s=,end=1666810227,ip=177.105,limit=1/state=Y1lJsWmN/buffer=5000000:15427359,6134.6/speed=1000000/referer =nenhum,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd2/443/4/291277524/BR/movies/samaritano2022-dub-720p. mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/09/23PcKOqNdhKeMFzORzQGn5eC44N-200x300.jpg" group-title="filmes",Dragonball Evolution
+https://ip230614836.ahcdn.com/key=nETdW5jPnUrxNSqkzUanGQ,s=,end=1666810356,ip=177.105,limit=1/state=Y1lJsWmN/buffer=5000000:18952204,5125.8/speed=1000000/referer=none,. moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd1/443/3/293437873/BR/movies/dragonballevolution-dub-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2021/07/lWQ3hI78Az2RHfzDpEuvougqUz7-200x300.jpg" group-title="filmes",A Guerra do Amanhã
+https://ip229738237.ahcdn.com/key=t7BbQsq4A4a3AyPnNwMGQg,s=,end=1666810412,ip=177.105,limit=1/state=Y1lJsWmN/buffer=5000000:19474403,8286.2/speed=1000000/referer=none,. moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd3/443/9/291270809/BR/movies/aguerradoamanha-dub-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2021/05/uHEZ4ZMziIjlAgCTQAEh9ROvtj0-200x300.jpg" group-title="filmes",Sem Remorso
+https://ip250109877.ahcdn.com/key=Bfn90vIQ4Mh5jXL+APjRTQ,s=,end=1666810450,ip=177.105,limit=1/state=Y1lKsWmN/buffer=5000000:28676734,6555.6/speed=1000000/referer=none ,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/20/443/2/291277622/BR/movies/semremorso-dub-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/10/xDgnmbdWS59NtTPdzujdZGuPUPZ-200x300.jpg" group-title="filmes",Blackout
+https://ip290627787.ahcdn.com/key=o7s-r1y070DFUm-hFpMDyA,s=,end=1666816699,ip=177.105,limit=1/state=Y1lisWmN/buffer=5000000:12255863,4890.5/speed=1000000/referer =nenhum,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd4/443/6/295512646/BR/movies/blackout2022-dub-720p. mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/10/68SX7S9lisehbuZLNX4CrVMxV1v-200x300.jpg" group-title="filmes",A Queda
+https://ip290627484.ahcdn.com/key=1hO51qiDqzkxCO1oaqZ2pg,s=,end=1666816765,ip=177.105,limit=1/state=Y1lisWmN/buffer=5000000:18568069,6436.7/speed=1000000/referer=none,. moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd8/443/6/295008176/BR/movies/hc/fall2022-leg-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/09/crnUUp1cyqwR9NeGhdt0mMQNN0Y-200x300.jpg" group-title="filmes",A Fera – 2022
+https://ip290627787.ahcdn.com/key=+xGEJPBdUBbwRPWly5ZsWQ,s=,end=1666816818,ip=177.105,limit=1/state=Y1lisWmN/buffer=5000000:15144234,5567.2/speed=1000000/referer=none, .moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd2/443/4/292202484/BR/movies/beast2022-leg-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/09/71XnRvkadkWZZowCGcuBi4XAKdJ-200x300.jpg" group-title="filmes",Thor: Amor e Trovão
+https://ip290627787.ahcdn.com/key=nuvMgb9YVAy0JpI2jn-vuQ,s=,end=1666816870,ip=177.105,limit=1/state=Y1ljsWmN/buffer=5000000:25443249,7123.9/speed=1000000/referer=none ,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd7/443/5/291892295/BR/movies/thoramoretrovao-dub-720p.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/08/gmY6yEyvLlkqrgqYNXPp1llPZeT-200x300.jpg" group-title="filmes",Dupla Jornada
+https://www.mmfilmeshd.io/wp-content/uploads/2022/08/gmY6yEyvLlkqrgqYNXPp1llPZeT-200x300.jpg
+ 
+ 
+ 
+ 
+###############Series##################
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2016/11/supernatural-200x300.jpg" group-title="sobrenatural",sobrenatural (SD)
+0.0.0.0
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2016/11/supernatural-200x300.jpg" group-title="supernatural",super T1|EP1
+https://mmnetwork1.b-cdn.net/tvshows/Supernatural/s01e01-dub-360p.mp4?token=UOwwJCwZ1yyBY7LYdglMVQhB-fEksp0UlKhkVlGs0nM&expires=1666805930
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2016/11/supernatural-200x300.jpg" group-title="supernatural",super T1|EP2
+https://mmnetwork1.b-cdn.net/tvshows/Supernatural/s01e02-dub-360p.mp4?token=S_bSt8abQuXTKMFnuARfNG8w9OTfmY6TBDjDG8gtJQM&expires=1666806016
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2016/11/supernatural-200x300.jpg" group-title="supernatural",super T1|EP3
+https://mmnetwork1.b-cdn.net/tvshows/Supernatural/s01e03-dub-360p.mp4?token=MERlpeLC0G9qvTLiG-FqloX5IHMOiUP0X6Qfy1fF1W4&expires=1666806040
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2016/11/supernatural-200x300.jpg" group-title="supernatural",super T1|EP4
+https://mmnetwork1.b-cdn.net/tvshows/Supernatural/s01e03-dub-360p.mp4?token=MERlpeLC0G9qvTLiG-FqloX5IHMOiUP0X6Qfy1fF1W4&expires=1666806040
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2016/11/supernatural-200x300.jpg" group-title="supernatural",super T1|EP5
+https://mmnetwork1.b-cdn.net/tvshows/Supernatural/s01e03-dub-360p.mp4?token=MERlpeLC0G9qvTLiG-FqloX5IHMOiUP0X6Qfy1fF1W4&expires=1666806040
+ 
+###############FECHADOS##################
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qmTaflk.png" group-title="CANAIS",TV CAMARA II http://stream2.camara.gov.br:8134/tv2 /manifest.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7c70c8f8099730a84bf271395381692e.png" group-title="CANAIS",SERTÃO TV http://wz4.dnip. com.br/sertaotv/sertaotv.sdp/chunklist_w1802821028.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/29bd5af93095d92009a3090c0b978a60.png" group-title="CANAIS",TV DIÁRIO DO SERTÃO http://painelvj. com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w2123072306.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png" group-title="CANAIS",TV COM BRASIL https://596639ebdd89b.streamlock.net/8032/8032 /chunklist_w453009587.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="CANAIS",TERRA VIVA https://evpp.mm.uol. com.br/band_live/terraviva/chunklist_w1255312138.m3u8
+ 
+###############Series##################
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2019/06/MV5BOWVhN2IxYjYtNmY1ZS00NTIyLTg4N2MtYmM4OGRiNDFkOGFiXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SY1000_SX675_AL_-203x300.jpg" group-title="Como Vender Drogas Online", online T1|EP1
+https://mmnetwork1.b-cdn.net/tvshows/howtoselldrugsonlinefast/s01e01-dub-360p.mp4?token=4OEGgcCz9R0H2uhpo39JtWgCoikFWLhpRwgDN_ydZ3U&expires=1666808026
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2019/06/MV5BOWVhN2IxYjYtNmY1ZS00NTIyLTg4N2MtYmM4OGRiNDFkOGFiXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SY1000_SX675_AL_-203x300.jpg" group-title="Como Vender Drogas Online", online T1|EP2
+https://mmnetwork1.b-cdn.net/tvshows/howtoselldrugsonlinefast/s01e02-dub-360p.mp4?token=p3Kxb-0I-Qvop99BhLFKtizWgRrv2DlbKoL-1xs9WO8&expires=1666808451
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2019/06/MV5BOWVhN2IxYjYtNmY1ZS00NTIyLTg4N2MtYmM4OGRiNDFkOGFiXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SY1000_SX675_AL_-203x300.jpg" group-title="Como Vender Drogas Online", online T1|EP3
+https://mmnetwork1.b-cdn.net/tvshows/howtoselldrugsonlinefast/s01e03-dub-360p.mp4?token=3ltpkLBLZFUPD9_LYvcXaJTfKk7Fr-HLr-NxrB8550c&expires=1666808475
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2019/06/MV5BOWVhN2IxYjYtNmY1ZS00NTIyLTg4N2MtYmM4OGRiNDFkOGFiXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SY1000_SX675_AL_-203x300.jpg" group-title="Como Vender Drogas Online", online T1|EP4
+https://mmnetwork1.b-cdn.net/tvshows/howtoselldrugsonlinefast/s01e04-dub-360p.mp4?token=vvTGsa4PmugBb64EiygxmyHLlbudZp6VnfCu_vsJwiM&expires=1666808381
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2019/06/MV5BOWVhN2IxYjYtNmY1ZS00NTIyLTg4N2MtYmM4OGRiNDFkOGFiXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SY1000_SX675_AL_-203x300.jpg" group-title="Como Vender Drogas Online", online T1|EP5
+https://mmnetwork1.b-cdn.net/tvshows/howtoselldrugsonlinefast/s01e05-dub-360p.mp4?token=C47O2KOanIWe_tRY316JsgeAd25VmKXiyuNYymKVzgE&expires=1666808420
+ 
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2019/06/MV5BOWVhN2IxYjYtNmY1ZS00NTIyLTg4N2MtYmM4OGRiNDFkOGFiXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SY1000_SX675_AL_-203x300.jpg" group-title="Como Vender Drogas Online", online T1|EP6
+https://mmnetwork1.b-cdn.net/tvshows/howtoselldrugsonlinefast/s01e06-dub-360p.mp4?token=P9WpZ2ILLDw2tbyhKz58Nb4B-JJf4kpRxVZDhbcygbI&expires=1666808501
