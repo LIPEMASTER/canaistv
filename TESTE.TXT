@@ -1,0 +1,10 @@
+#EXTM3U
+
+###############ABERTOS FIXOS##################
+
+
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/10/f4hdxB3gErjNJtfWBU9rMdhiNbU-200x300.jpg" group-title="filmes", A Maldição de Bridge Hollow
+https://ip230617048.ahcdn.com/key=2F5auFXQJuSYQE+wQgl+yQ,s=,end=1666801431,ip=177.105,limit=1/state=Y1kmsWmN/buffer=5000000:14422410,5506.0/speed=1000000/referer=none,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd8/443/3/295512643/BR/movies/amaldicaodebridgehollow-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/10/g4j5D2lCue9gIDvYg89VdSBXq1y-200x300.jpg" group-title="filmes",Assalto na Paulista
+https://ip236214191.ahcdn.com/key=MLiqAQPCoXW0xU7aBqIzeQ,s=,end=1666801549,ip=177.105,limit=1/state=Y1knsWmN/buffer=5000000:17134016,6609.8/speed=1000000/referer=none,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd1/443/8/295795058/BR/movies/assaltonapaulista-dub-720p.mp4
