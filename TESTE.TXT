@@ -11,3 +11,10 @@ https://ip236214191.ahcdn.com/key=MLiqAQPCoXW0xU7aBqIzeQ,s=,end=1666801549,ip=17
 
 #EXTINF:-1 tvg-logo="https://vizer.tv/content/movies/posterPt/342/27820.webp" group-title="filmes",Homem-Aranha: Sem Volta Para Casa
 https://cloclo52.datacloudmail.ru/public/view/7ZrqmrGXZXbiaf6VS26W16m9ofNGMAABoT5KNLH3QBS9p7eqhrWRQ8GKguPCaHw7rT66Yo/no/5TygvSiq9bKAxUWK.mp4
+
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/10/vNlwArDpdG60HCtmjxMEpVu0WLO-200x300.jpg" group-title="filmes",Ronaldo, O Fenômeno
+https://cdn.data.avsee.in/key=Zrb346CJJB4CkmOCN+56ug,end=1666805208,ip=177.105,limit=1/speed=1.0/referer=none,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/speed=1M/buffer=5.0/BR/movies/ronaldoofenomeno-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://www.mmfilmeshd.io/wp-content/uploads/2022/10/4pXnbHkH3hIKcdmBB3gwbayZe4u.jpg" group-title="filmes",Ronaldo, A Fúria
+https://ip290627787.ahcdn.com/key=ycLP4-KiY7gNYlCuVLKYEg,s=,end=1666805272,ip=177.105,limit=1/state=Y1k1sWmN/buffer=5000000:14227571,6082.2/speed=1000000/referer=none,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd2/443/1/296086441/BR/movies/thefury2022-dub-720p.mp4
+
